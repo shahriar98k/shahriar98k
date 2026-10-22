@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Shahriar Kamal, SEO Specialist. Rank higher. Sell more." width="100%">
+<img src="banner.svg" alt="Shahriar, SEO Specialist. Work, study, location, and football: Barcelona, Messi, Argentina." width="100%">
 
 <br>
 
@@ -17,9 +17,9 @@
 
 ## About me
 
-**Rank higher. Sell more.** Hi, I'm Shahriar, an SEO specialist based in Dhaka, Bangladesh. My new portfolio site is live: [shahriar98k.github.io](https://shahriar98k.github.io/).
+Hi, I'm Shahriar, an SEO specialist based in Dhaka, Bangladesh.
 
-I help online stores and local businesses get found on Google. I have worked on 35+ websites and brands across 13 countries. I work in English, Italian and Urdu, with clients in the USA, UK, Italy and Pakistan.
+I help online stores and local businesses get found on Google. I work in English, Italian and Urdu, with clients in the USA, UK, Italy and Pakistan.
 
 My background is in apparel engineering and garments business, so I understand product-based businesses well.
 
